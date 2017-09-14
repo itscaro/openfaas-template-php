@@ -1,0 +1,2 @@
+language: php7
+fprocess: php index.php

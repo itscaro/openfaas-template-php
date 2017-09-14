@@ -1,0 +1,9 @@
+{
+    "name": "openfaas/php7",
+    "description": "Template for function in PHP 7",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    }
+}

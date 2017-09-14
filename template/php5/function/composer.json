@@ -1,0 +1,9 @@
+{
+    "name": "function-php5",
+    "description": "Template for function in PHP 5",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^5.6.0"
+    }
+}
