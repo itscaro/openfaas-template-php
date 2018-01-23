@@ -3,6 +3,11 @@
     "description": "Template for function in PHP 7",
     "type": "project",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
     "require": {
         "php": "^7.0"
     }
