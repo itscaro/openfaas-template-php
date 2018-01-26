@@ -12,6 +12,6 @@ faas-cli new my-function-in-php7 --lang php
 ```
 
 You will find in the newly created directories `my-function-in-php5` and `my-function-in-php7`:
-- Handler.php : entrypoint
+- src/Handler.php : entrypoint
 - php-extension.sh : is for installing PHP extensions if needed
 - composer.json : is for dependency management

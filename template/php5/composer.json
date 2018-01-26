@@ -3,6 +3,9 @@
     "description": "Template for function in PHP 5",
     "type": "metapackage",
     "license": "MIT",
+    "config": {
+        "classmap-authoritative": true
+    },
     "require": {
         "php": "^5.6.0"
     }

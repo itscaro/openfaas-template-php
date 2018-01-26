@@ -3,6 +3,9 @@
     "description": "Template for function in PHP 7",
     "type": "metapackage",
     "license": "MIT",
+    "config": {
+        "classmap-authoritative": true
+    },
     "require": {
         "php": "^7.0"
     }

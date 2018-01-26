@@ -3,6 +3,9 @@
     "description": "Template for function in PHP 7",
     "type": "project",
     "license": "MIT",
+    "config": {
+        "classmap-authoritative": true
+    },
     "autoload": {
         "psr-4": {
             "App\\": "src/"
